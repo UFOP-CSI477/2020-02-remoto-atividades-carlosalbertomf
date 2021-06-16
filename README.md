@@ -2,7 +2,7 @@
 
 ## Atualize os seus dados:
 
-- Nome: Carlos Alberto Miranda Ferreira
+- Nome: Carlos Alberto Miranda Ferreira 
 - Matrícula: 16.2.8394
 - Curso: Sistemas de Informação
 - Semestre/Ano correntes: 7°
